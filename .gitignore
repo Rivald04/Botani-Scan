@@ -1,0 +1,6 @@
+BotaniScan/database/
+BotaniScan/node_modules/
+images/
+modelAPI/modelAI/
+modelAPI/myenv/
+modelAPI/.vscode/
